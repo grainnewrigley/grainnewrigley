@@ -6,6 +6,6 @@ I'm driven to continuously improve my skills (most recently, natural language pr
 
 ##Skills
 
-**Programming & Software:** Python, pandas, SciPy, NumPy, Wagtail, Campaign Monitor, Canva
-**Data & Analytics:** Power BI, DAX, SQL, Excel, Data Cleaning, Visualisation, GDPR compliance
-**Communication:** Report Writing, Web Content Creation, Graphic Design, British Sign Language, problem solving, time management
+**Programming & Software:** Python, pandas, SciPy, NumPy, Wagtail, Campaign Monitor, Canva  
+**Data & Analytics:** Power BI, DAX, SQL, Excel, Data Cleaning, Visualisation, GDPR compliance  
+**Communication:** Report Writing, Web Content Creation, Graphic Design, British Sign Language, problem solving, time management  
